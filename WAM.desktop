@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Web App Manager
+Comment=A tool for creating Web Apps
+Exec=python3 /usr/bin/WebAppManager.py
+Icon=WAM
+Terminal=false
